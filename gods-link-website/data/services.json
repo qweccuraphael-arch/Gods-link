@@ -1,0 +1,58 @@
+{
+  "services": [
+    {
+      "id": "mobile-development",
+      "title": "Mobile Development",
+      "icon": "📱",
+      "tagline": "Apps users love. Platforms that scale.",
+      "description": "Cross-platform and native mobile apps for iOS and Android, built with React Native, Flutter, Swift, and Kotlin.",
+      "technologies": ["React Native", "Flutter", "Swift", "Kotlin", "Expo", "Firebase"],
+      "url": "pages/services/mobile-development.html"
+    },
+    {
+      "id": "backend-development",
+      "title": "Backend Development",
+      "icon": "⚙️",
+      "tagline": "The engine behind every great product.",
+      "description": "Scalable APIs, microservices, databases, and cloud infrastructure engineered for reliability and growth.",
+      "technologies": ["Node.js", "Python", "PostgreSQL", "Redis", "AWS", "Docker"],
+      "url": "pages/services/backend-development.html"
+    },
+    {
+      "id": "frontend-development",
+      "title": "Frontend Development",
+      "icon": "🖥️",
+      "tagline": "Interfaces that delight.",
+      "description": "React, Vue, and Next.js applications built for performance, accessibility, and visual excellence.",
+      "technologies": ["React", "Next.js", "Vue", "TypeScript", "Tailwind", "Three.js"],
+      "url": "pages/services/frontend-development.html"
+    },
+    {
+      "id": "website-development",
+      "title": "Website Development",
+      "icon": "🌐",
+      "tagline": "Your digital home, perfected.",
+      "description": "Full-stack websites from simple landing pages to complex enterprise platforms — designed, built, and deployed.",
+      "technologies": ["WordPress", "Next.js", "Webflow", "Strapi", "Vercel", "Netlify"],
+      "url": "pages/services/website-development.html"
+    },
+    {
+      "id": "system-management",
+      "title": "System Management",
+      "icon": "🛡️",
+      "tagline": "Infrastructure you can trust.",
+      "description": "DevOps, CI/CD pipelines, monitoring, security hardening, and 24/7 system management for your infrastructure.",
+      "technologies": ["Kubernetes", "Terraform", "GitHub Actions", "Datadog", "Nginx", "Cloudflare"],
+      "url": "pages/services/system-management.html"
+    },
+    {
+      "id": "graphic-design",
+      "title": "Graphic Design",
+      "icon": "🎨",
+      "tagline": "Visuals that communicate instantly.",
+      "description": "Brand identity, UI design systems, marketing collateral, and motion graphics that elevate your brand.",
+      "technologies": ["Figma", "Adobe Creative Suite", "Blender", "After Effects", "Lottie"],
+      "url": "pages/services/graphic-design.html"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "portfolio": [
+    {
+      "id": "fintrack-pro",
+      "title": "FinTrack Pro",
+      "category": "mobile",
+      "tag": "Mobile App",
+      "description": "Personal finance management app with real-time analytics, AI-powered insights, and budget automation.",
+      "tech": ["React Native", "Node.js", "PostgreSQL", "OpenAI API"],
+      "year": 2024
+    },
+    {
+      "id": "nexashop",
+      "title": "NexaShop",
+      "category": "web",
+      "tag": "E-Commerce",
+      "description": "High-performance e-commerce platform processing 50,000+ daily transactions with sub-200ms response times.",
+      "tech": ["Next.js", "Stripe", "PostgreSQL", "Redis", "AWS"],
+      "year": 2024
+    },
+    {
+      "id": "aura-health",
+      "title": "Aura Health",
+      "category": "brand",
+      "tag": "Branding",
+      "description": "Complete brand identity for wellness startup: logo, color system, typography, and component library.",
+      "tech": ["Figma", "Adobe Illustrator", "After Effects"],
+      "year": 2023
+    },
+    {
+      "id": "logichain-api",
+      "title": "LogiChain API",
+      "category": "backend",
+      "tag": "Backend",
+      "description": "Supply chain management API serving 200+ enterprise clients with 99.99% uptime SLA.",
+      "tech": ["Node.js", "GraphQL", "PostgreSQL", "Kubernetes", "Datadog"],
+      "year": 2024
+    },
+    {
+      "id": "eduflow",
+      "title": "EduFlow",
+      "category": "mobile",
+      "tag": "Mobile App",
+      "description": "Cross-platform learning application with offline mode, video streaming, and adaptive progress tracking.",
+      "tech": ["Flutter", "Firebase", "Dart", "CloudFront"],
+      "year": 2023
+    },
+    {
+      "id": "medidash",
+      "title": "MediDash",
+      "category": "web",
+      "tag": "Web Platform",
+      "description": "HIPAA-compliant healthcare dashboard for clinicians with real-time patient monitoring and EHR integration.",
+      "tech": ["React", "Python", "PostgreSQL", "WebSockets", "AWS"],
+      "year": 2024
+    }
+  ]
+}

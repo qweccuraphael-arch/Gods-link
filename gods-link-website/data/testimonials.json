@@ -1,0 +1,39 @@
+{
+  "testimonials": [
+    {
+      "name": "Amara Kwesi",
+      "role": "CEO, FintechFlow",
+      "initials": "AK",
+      "rating": 5,
+      "text": "Gods Link delivered our mobile app ahead of schedule with zero bugs. Absolutely divine work."
+    },
+    {
+      "name": "James Mukami",
+      "role": "CTO, LogiChain",
+      "initials": "JM",
+      "rating": 5,
+      "text": "The backend they built handles millions of requests effortlessly. True engineering gods."
+    },
+    {
+      "name": "Sofia Nkosi",
+      "role": "Founder, Aura Health",
+      "initials": "SN",
+      "rating": 5,
+      "text": "Our rebrand exceeded all expectations. The design team has an eye for elegance that's rare."
+    },
+    {
+      "name": "Marcus Obi",
+      "role": "Product Lead, MediDash",
+      "initials": "MO",
+      "rating": 5,
+      "text": "They understood our HIPAA requirements immediately and delivered a platform our clinicians actually enjoy using."
+    },
+    {
+      "name": "Yemi Adebayo",
+      "role": "COO, NexaCorp",
+      "initials": "YA",
+      "rating": 5,
+      "text": "The attention to detail is extraordinary. Our site conversion rate jumped 40% within the first month."
+    }
+  ]
+}
